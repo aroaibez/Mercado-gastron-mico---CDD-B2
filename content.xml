@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260528072535JI1JL1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260528072535J12P1S</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MATEMÁTICAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Aroa Ibáñez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Enseñanza y curso: 2ºESO
+Nombre materia: Matemáticas
+Nombre de la unidad: Proporcionalidad, divisibilidad y fracciones</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779791068125</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpmhnd7z-gv2aa4p0i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Mercado gastronómico andaluz</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mercado gastronómico andaluz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mercado gastronómico andaluz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Mercado gastronómico andaluz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd7z-gv2aa4p0i</odePageId>
+      <odeBlockId>block-1779124452941-k5nj05uc2</odeBlockId>
+      <blockName>Mercado gastronómico andaluz</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd7z-gv2aa4p0i</odePageId>
+          <odeBlockId>block-1779124452941-k5nj05uc2</odeBlockId>
+          <odeIdeviceId>idevice-1779124452939-s05xdbmke</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_sa96ssa96ssa96ss.png" width="1280" height="714" alt="" />
+<figcaption class="figcaption"><span class="author">Aroa Ibáñez a través de IA</span>. <span class="title"><em>Portada del evento</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779124452939-s05xdbmke","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_sa96ssa96ssa96ss.png\" width=\"1280\" height=\"714\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Aroa Ibáñez a través de IA</span>. <span class=\"title\"><em>Portada del evento</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+  <odeParentPageId>page-mpmhnd7z-gv2aa4p0i</odeParentPageId>
+  <pageName>1. Nuestro proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Nuestro proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+      <odeBlockId>block-1779254764606-pyajqc9gu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+          <odeBlockId>block-1779254764606-pyajqc9gu</odeBlockId>
+          <odeIdeviceId>idevice-1779254764606-pd3bb68kz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 200px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ldsi6qldsi6qldsi.png" alt="" width="200" height="112" />
+<figcaption class="figcaption"><span class="author">Aroa Ibáñez con IA</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>El Ayuntamiento de nuestra localidad quiere promocionar la dieta mediterránea, y sobre todo, dar valor a los <strong>platos típicos</strong> que tiene cada una de las provincias de Andalucía.</p>
+<p>A partir de esa idea, nuestra profesora de Matemáticas ha pensado que nosotros podemos realizar un Mercado gastronómico. Es muy interesante porque así aprenderemos cuál es el origen de platos típicos de nuestro día a día, y también como calcular los ingredientes que necesitaré si un día tengo muchos invitados en casa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779254764606-pd3bb68kz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 200px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ldsi6qldsi6qldsi.png\" alt=\"\" width=\"200\" height=\"112\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Aroa Ibáñez con IA</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>El Ayuntamiento de nuestra localidad quiere promocionar la dieta mediterránea, y sobre todo, dar valor a los <strong>platos típicos</strong> que tiene cada una de las provincias de Andalucía.</p>\n<p>A partir de esa idea, nuestra profesora de Matemáticas ha pensado que nosotros podemos realizar un Mercado gastronómico. Es muy interesante porque así aprenderemos cuál es el origen de platos típicos de nuestro día a día, y también como calcular los ingredientes que necesitaré si un día tengo muchos invitados en casa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+      <odeBlockId>block-1779125822371-co3cajwlv</odeBlockId>
+      <blockName>1. Objetivos</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+          <odeBlockId>block-1779125822371-co3cajwlv</odeBlockId>
+          <odeIdeviceId>idevice-1779125822370-5kolseenw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final de esta situación de aprendizaje serás capaz de:</p>
+<ol>
+<li>
+<p><strong>Competencia 2</strong> - Analizar las soluciones de un problema usando diferentes técnicas y herramientas, evaluando las repsuestas obtenidas, para verificar su validez e idoneidad desde un punto de vista matemático y su repercusión global.</p>
+</li>
+<li>
+<p><strong>Competencia 3</strong> - Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación, para generar nuevo conocimiento.</p>
+</li>
+<li>
+<p><strong>Competencia 6</strong> - Identificar las matemáticas implicadas en otras materias y situaciones reales susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.</p>
+</li>
+<li>
+<p><strong>Competencia 7</strong> – Representar, de forma individual y colectiva, conceptos, procedimientos, información y resultados matemáticos, usando diferentes tecnologías, para visibilizar ideas y estructurar procesos matemáticos.</p>
+</li>
+<li>
+<p><strong>Competencia 10</strong> – Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.</p>
+</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779125822370-5kolseenw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final de esta situación de aprendizaje serás capaz de:</p>\n<ol>\n<li>\n<p><strong>Competencia 2</strong> - Analizar las soluciones de un problema usando diferentes técnicas y herramientas, evaluando las repsuestas obtenidas, para verificar su validez e idoneidad desde un punto de vista matemático y su repercusión global.</p>\n</li>\n<li>\n<p><strong>Competencia 3</strong> - Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación, para generar nuevo conocimiento.</p>\n</li>\n<li>\n<p><strong>Competencia 6</strong> - Identificar las matemáticas implicadas en otras materias y situaciones reales susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.</p>\n</li>\n<li>\n<p><strong>Competencia 7</strong> – Representar, de forma individual y colectiva, conceptos, procedimientos, información y resultados matemáticos, usando diferentes tecnologías, para visibilizar ideas y estructurar procesos matemáticos.</p>\n</li>\n<li>\n<p><strong>Competencia 10</strong> – Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables.</p>\n</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+      <odeBlockId>block-1779126145264-aberzap1y</odeBlockId>
+      <blockName>2. Línea temporal</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd83-fpdmr5gpu</odePageId>
+          <odeBlockId>block-1779126145264-aberzap1y</odeBlockId>
+          <odeIdeviceId>idevice-1779126145262-yw86qtzig</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Linea temporal.jpg" width="1280" height="647" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779126145262-yw86qtzig","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Linea temporal.jpg\" width=\"1280\" height=\"647\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+  <odeParentPageId>page-mpmhnd7z-gv2aa4p0i</odeParentPageId>
+  <pageName>2. ¿Qué recetas conocemos y cuáles no?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué recetas conocemos y cuáles no?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. TAREA LECTURA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¿Qué recetas conocemos y cuáles no?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+      <odeBlockId>block-1779133630776-mf9yowdxh</odeBlockId>
+      <blockName>Lectura</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+          <odeBlockId>block-1779133630776-mf9yowdxh</odeBlockId>
+          <odeIdeviceId>idevice-1779133630773-ntevs2n7o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 150px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-18 213719.png" alt="" width="150" height="184" />
+<figcaption class="figcaption"><span class="author">Aroa Ibáñez con IA</span>. <span class="title"><em>300x200</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">Descubre una fascinante región del sur de España que ofrece la comida más tentadora a través de <strong>75 recetas auténticas</strong>, escritas con esmero y atención utilizando los mejores ingredientes.</p>
+<p style="text-align: justify;"><a href="https://www.mariajosesevilla.com/" target="_blank" title="" rel="noopener">María José Sevilla</a> ha trabajado durante muchos años en el sector de la gastronomía y el vino. Es <strong>cocinera, escritora y comunicadora</strong>, y ha sido una figura clave en el descubrimiento de la cocina española por parte de chefs y críticos gastronómicos de todo el mundo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779133630773-ntevs2n7o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 150px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-18 213719.png\" alt=\"\" width=\"150\" height=\"184\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Aroa Ibáñez con IA</span>. <span class=\"title\"><em>300x200</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">Descubre una fascinante región del sur de España que ofrece la comida más tentadora a través de <strong>75 recetas auténticas</strong>, escritas con esmero y atención utilizando los mejores ingredientes.</p>\n<p style=\"text-align: justify;\"><a href=\"https://www.mariajosesevilla.com/\" target=\"_blank\" title=\"\" rel=\"noopener\">María José Sevilla</a> ha trabajado durante muchos años en el sector de la gastronomía y el vino. Es <strong>cocinera, escritora y comunicadora</strong>, y ha sido una figura clave en el descubrimiento de la cocina española por parte de chefs y críticos gastronómicos de todo el mundo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+      <odeBlockId>block-1779255230758-cj612nkrk</odeBlockId>
+      <blockName>Buscamos información</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+          <odeBlockId>block-1779255230758-cj612nkrk</odeBlockId>
+          <odeIdeviceId>idevice-1779255230755-nskp204i6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 125px;"><img src="{{context_path}}/content/resources/5156759.jpg" alt="" width="125" height="83" />
+<figcaption class="figcaption"><span class="author">Imagen de freepik</span>.</figcaption>
+</figure>
+<ul>
+<li title="">Cada pareja tendrá que leer el libro, pero tendrá que <strong>elegir tres <a href="https://www.youtube.com/watch?v=nFF7BEumo30&t=2s">recetas</a></strong><a href="https://www.youtube.com/watch?v=nFF7BEumo30&t=2s"> </a>para buscar información.</li>
+<li>Deberéis repartiros la tarea de <strong>buscar información</strong>, <strong>tanto en el libro como en internet</strong>, sobre las recetas seleccionadas, su origen, diferentes versiones según la provincia, etc.</li>
+</ul>
+<p>Esta información la recogeréis en un documentos de Drive para hacer una puesta en común como los otros componentes del grupo.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779255230755-nskp204i6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 125px;\"><img src=\"{{context_path}}/content/resources/5156759.jpg\" alt=\"\" width=\"125\" height=\"83\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen de freepik</span>.</figcaption>\n</figure>\n<ul>\n<li title=\"\">Cada pareja tendrá que leer el libro, pero tendrá que <strong>elegir tres <a href=\"https://www.youtube.com/watch?v=nFF7BEumo30&t=2s\">recetas</a></strong><a href=\"https://www.youtube.com/watch?v=nFF7BEumo30&t=2s\"> </a>para buscar información.</li>\n<li>Deberéis repartiros la tarea de <strong>buscar información</strong>, <strong>tanto en el libro como en internet</strong>, sobre las recetas seleccionadas, su origen, diferentes versiones según la provincia, etc.</li>\n</ul>\n<p>Esta información la recogeréis en un documentos de Drive para hacer una puesta en común como los otros componentes del grupo.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+      <odeBlockId>block-1779257412623-3zvb1pxew</odeBlockId>
+      <blockName>Una pequeña ayuda nunca viene mal</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd85-vhf9iyvh3</odePageId>
+          <odeBlockId>block-1779257412623-3zvb1pxew</odeBlockId>
+          <odeIdeviceId>idevice-1779257412619-hi66dpbw7</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-3"><h2 style="display:none;">¿Necesitas ayuda para buscar en internet?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Aquí os dejo un enlace con un pequeño resumen de tácticas para buscar información en <a href="https://www.youtube.com/watch?v=MMF2T0Yhf70" target="_blank" title="" rel="noopener">internet</a>.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">¿Necesitas ayuda para trabajar con Drive?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://www.youtube.com/watch?v=ICzTCPjxUjI" target="_blank" title="" rel="noopener">Drive</a> es una herramienta colaborativa para poner toda la información que busquéis en común.&nbsp;</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">¿Necesitas ayuda para trabajar en grupo?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Os dejo unos tips para que el <a href="https://www.youtube.com/watch?v=Wl19KWE3_44" target="_blank" title="" rel="noopener">trabajo en grupo</a> sea eficiente.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmhnd87-harbamnka</odePageId>
+  <odeParentPageId>page-mpmhnd7z-gv2aa4p0i</odeParentPageId>
+  <pageName>3. ¿Cuánta cantidad necesitamos?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. ¿Cuánta cantidad necesitamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. ¿Cuánta cantidad necesitamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. ¿Cuánta cantidad necesitamos?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd87-harbamnka</odePageId>
+      <odeBlockId>block-1779788725944-48h1pv159</odeBlockId>
+      <blockName>¿Qué trabajo vamos a realizar?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd87-harbamnka</odePageId>
+          <odeBlockId>block-1779788725944-48h1pv159</odeBlockId>
+          <odeIdeviceId>idevice-1779788725944-6g66eyx3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 300px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_jr2nopjr2nopjr2n.png" alt="" width="300" height="167" />
+<figcaption class="figcaption"><span class="author">Aroa Ibáñez con IA</span>. <span class="title"><em>300x200</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">Una vez que tenemos elegida la receta que vamos a proponer para el Marcado gastronómico andaluz,</p>
+<p style="text-align: justify;">ahora tenemos que planificar la cantidad de ingredientes que necesitaremos para poder abarcar a los 60 participantes que asistirán. Para ello, vamos a repasar la <a href="https://www.youtube.com/watch?v=7XUUuNfBVIs&t=37s" title="">proporcionalidad </a>aplicada a recetas.</p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779788725944-6g66eyx3r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_jr2nopjr2nopjr2n.png\" alt=\"\" width=\"300\" height=\"167\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Aroa Ibáñez con IA</span>. <span class=\"title\"><em>300x200</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">Una vez que tenemos elegida la receta que vamos a proponer para el Marcado gastronómico andaluz,</p>\n<p style=\"text-align: justify;\">ahora tenemos que planificar la cantidad de ingredientes que necesitaremos para poder abarcar a los 60 participantes que asistirán. Para ello, vamos a repasar la <a href=\"https://www.youtube.com/watch?v=7XUUuNfBVIs&t=37s\" title=\"\">proporcionalidad </a>aplicada a recetas.</p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd87-harbamnka</odePageId>
+      <odeBlockId>block-1779788725944-51kd0bqcy</odeBlockId>
+      <blockName>Idea de como trabajar la proporcionalidad</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd87-harbamnka</odePageId>
+          <odeBlockId>block-1779788725944-51kd0bqcy</odeBlockId>
+          <odeIdeviceId>idevice-1779788725944-ty8roautx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 1280px;"></figure>
+<figure class="exe-figure exe-image license-custom float-left" style="width: 1280px;"></figure>
+<figure class="exe-figure exe-image license-custom float-right" style="width: 400px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_u54dfwu54dfwu54d.png" alt="" width="400" height="223" />
+<figcaption class="figcaption"><span class="author">Aroa Ibáñez con IA</span>.</figcaption>
+</figure>
+<p>Os dejo un ejemplo de tabla para poder trabajar la proporcionalidad con los ingredientes de vuestra receta.</p>
+<p>Como podéis ver, se trabajan con medidas enteras de peso, fracciones o de volumen. Os dejo un <a href="https://www.youtube.com/watch?v=svRqln6zd6A" title="">video </a>por aquí por si necesitáis refrescarlo.</p>
+<p><br style="clear: both;" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779788725944-ty8roautx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 1280px;\"></figure>\n<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 1280px;\"></figure>\n<figure class=\"exe-figure exe-image license-custom float-right\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_u54dfwu54dfwu54d.png\" alt=\"\" width=\"400\" height=\"223\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Aroa Ibáñez con IA</span>.</figcaption>\n</figure>\n<p>Os dejo un ejemplo de tabla para poder trabajar la proporcionalidad con los ingredientes de vuestra receta.</p>\n<p>Como podéis ver, se trabajan con medidas enteras de peso, fracciones o de volumen. Os dejo un <a href=\"https://www.youtube.com/watch?v=svRqln6zd6A\" title=\"\">video </a>por aquí por si necesitáis refrescarlo.</p>\n<p><br style=\"clear: both;\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmhnd88-7x67beou9</odePageId>
+  <odeParentPageId>page-mpmhnd7z-gv2aa4p0i</odeParentPageId>
+  <pageName>4. Trabajamos en nuestro stand</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Trabajamos en nuestro stand</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Trabajamos en nuestro stand</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd88-7x67beou9</odePageId>
+      <odeBlockId>block-mpbgfcra-egkddf6af</odeBlockId>
+      <blockName>Diseñamos el cartel de nuestro stand</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd88-7x67beou9</odePageId>
+          <odeBlockId>block-mpbgfcra-egkddf6af</odeBlockId>
+          <odeIdeviceId>idevice-mpbgfcra-psxzvtoks</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Llega el momento de empezar a diseñar como quedará nuestro stand. Una vez elegida la receta diseñaremos en <a href="https://www.youtube.com/watch?v=pIl-JKvHj3A&t=3s" title="">Canva </a>una infografía para presentar la receta, os dejo dos diseños para que os hagáis una idea.</p>
+<div class="exe-layout-2-cols exe-layout-2-50-50 exe-clear">
+<div class="exe-col exe-col-2">
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image license-custom position-right" style="width: 300px;"><img src="{{context_path}}/content/resources/3949270.jpg" alt="" width="300" height="200">
+<figcaption class="figcaption"><span class="author"><a href="https://www.magnific.com/es/vector-gratis/concepto-receta-empanada_8622573.htm#fromView=image_search_similar&page=1&position=11&uuid=f3f01ee0-baf1-4655-a984-b7432e295a70&query=receta+de+comida">Imagen de pikisuperstar en Magnific</a></span>.</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image license-custom position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/3902096.jpg" alt="" width="300" height="300">
+<figcaption class="figcaption"><span class="author"><a href="https://www.magnific.com/es/vector-gratis/concepto-receta-empanada_8622573.htm#fromView=image_search_similar&page=1&position=11&uuid=f3f01ee0-baf1-4655-a984-b7432e295a70&query=receta+de+comida">Imagen de pikisuperstar en Magnific</a></span>.</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image license-custom" style="width: 300px;"><img src="{{context_path}}/content/resources/42008.jpg" alt="" width="300" height="367">
+<figcaption class="figcaption"><span class="author"><a href="https://www.magnific.com/es/vector-gratis/concepto-receta-empanada_8622573.htm#fromView=image_search_similar&page=1&position=11&uuid=f3f01ee0-baf1-4655-a984-b7432e295a70&query=receta+de+comida">Imagen de pikisuperstar en Magnific</a></span>.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+  <odeParentPageId>page-mpmhnd7z-gv2aa4p0i</odeParentPageId>
+  <pageName>5. Promocionamos nuestra receta</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Promocionamos nuestra receta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entrega y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Promocionamos nuestra receta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+      <odeBlockId>block-1779260666087-x34bqnr5o</odeBlockId>
+      <blockName>Instrucciones para la entrega</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+          <odeBlockId>block-1779260666087-x34bqnr5o</odeBlockId>
+          <odeIdeviceId>idevice-1779260666084-esbogmv48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 250px;"><img src="{{context_path}}/content/resources/Tiny businesswoman checking completed tasks on clipboard.jpg" alt="" width="250" height="167" />
+<figcaption class="figcaption"><span class="author"><a href="https://www.magnific.com/es/vector-gratis/pequena-empresaria-comprobando-tareas-completadas-ilustracion-plana-portapapeles_13146663.htm#fromView=search&page=1&position=1&uuid=549205e4-0944-4910-9a16-a2c3a5009c6d&query=evaluacion">Imagen de pch.vector en Magnific</a></span>.</figcaption>
+</figure>
+<p>Para entregar la tarea, debes tener en cuenta lo siguiente:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Recuerda nombrar el archivo de tu tarea siguiendo este esquema: "<strong>Apellido1_Apellido2_Nombre_NombreTarea</strong>", solo la entregará un componente del grupo.</li>
+<li>A continuación os dejo una <strong>rúbrica</strong> sobre los elementos que se valorarán, tanto del trabajo con CapCut, como de la presentación que haréis. Os recomiendo que la tengáis en cuenta.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779260666084-esbogmv48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 250px;\"><img src=\"{{context_path}}/content/resources/Tiny businesswoman checking completed tasks on clipboard.jpg\" alt=\"\" width=\"250\" height=\"167\" />\n<figcaption class=\"figcaption\"><span class=\"author\"><a href=\"https://www.magnific.com/es/vector-gratis/pequena-empresaria-comprobando-tareas-completadas-ilustracion-plana-portapapeles_13146663.htm#fromView=search&page=1&position=1&uuid=549205e4-0944-4910-9a16-a2c3a5009c6d&query=evaluacion\">Imagen de pch.vector en Magnific</a></span>.</figcaption>\n</figure>\n<p>Para entregar la tarea, debes tener en cuenta lo siguiente:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Recuerda nombrar el archivo de tu tarea siguiendo este esquema: \"<strong>Apellido1_Apellido2_Nombre_NombreTarea</strong>\", solo la entregará un componente del grupo.</li>\n<li>A continuación os dejo una <strong>rúbrica</strong> sobre los elementos que se valorarán, tanto del trabajo con CapCut, como de la presentación que haréis. Os recomiendo que la tengáis en cuenta.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+      <odeBlockId>block-1779787958303-qlgnc19tq</odeBlockId>
+      <blockName>Algunas cositas que pueden ayudaros...</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+          <odeBlockId>block-1779787958303-qlgnc19tq</odeBlockId>
+          <odeIdeviceId>idevice-1779787958300-8tsmrtits</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">¿Cómo editar un video en CapCut?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://youtu.be/CVUNKLM3JUs?si=vhaLvDgJHgjtD1qU" title="">https://youtu.be/CVUNKLM3JUs?si=vhaLvDgJHgjtD1qU</a></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;">¿Cómo hacer una exposicón sin nervios?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://www.youtube.com/watch?v=BwAtqPAnHu4" title="">https://www.youtube.com/watch?v=BwAtqPAnHu4</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+      <odeBlockId>block-mpbgfcrb-9vbm8b55a</odeBlockId>
+      <blockName>Rubrica de nuestro video promocional de nuestra propuesta</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd88-21lbdslxl</odePageId>
+          <odeBlockId>block-mpbgfcrb-9vbm8b55a</odeBlockId>
+          <odeIdeviceId>idevice-mpbgfcrb-mgr7vf3tl</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-mpbgfcrb-mgr7vf3tl%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20video%20promocional%22%2C%22categories%22%3A%5B%22Justificaci%F3n%20de%20la%20respuesta%22%2C%22C%E1lculo%20de%20ingredientes%22%2C%22Defensa%20de%20la%20propuesta%22%2C%22Comunicaci%F3n%22%2C%22Creatividad%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20de%20forma%20clara%2C%20coherente%20y%20convincente%20por%20qu%E9%20han%20elegido%20la%20receta%20andaluza.%20Incluye%20aspectos%20culturales%2C%20hist%F3ricos%20o%20de%20identidad%20local.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20por%20qu%E9%20han%20elegido%20la%20receta%20con%20argumentos%20comprensibles%20y%20ordenados.%20Incluye%20alguna%20referencia%20cultural%20o%20contextual%2C%20aunque%20poco%20profundizada.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Ofrece%20una%20justificaci%F3n%20b%E1sica%20o%20general%20con%20escaso%20desarrollo.%20Apenas%20hay%20referencias%20culturales%20o%20son%20superficiales.%20La%20explicaci%F3n%20resulta%20poco%20convincente.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20elecci%F3n%20no%20est%E1%20claramente%20justificada%20o%20los%20argumentos%20son%20confusos.%20No%20se%20aprecia%20relaci%F3n%20con%20el%20contexto%20ni%20con%20la%20gastronom%EDa%20andaluza.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20correctamente%20c%F3mo%20han%20adaptado%20la%20receta%20original%20a%2030%20comensales%2C%20mostrando%20c%E1lculos%20claros%20y%20bien%20razonados.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20c%E1lculo%20es%20en%20general%20correcto%20y%20permite%20obtener%20cantidades%20adecuadas.%20La%20explicaci%F3n%20del%20proceso%20es%20comprensible%2C%20aunque%20le%20faltan%20algunos%20pasos.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20dificultades%20en%20la%20adaptaci%F3n%20de%20cantidades.%20La%20explicaci%F3n%20es%20incompleta%20o%20poco%20clara%2C%20lo%20que%20dificulta%20entender%20c%F3mo%20han%20realizado%20los%20c%E1lculos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Los%20c%E1lculos%20son%20incorrectos%20o%20inexistentes.%20No%20se%20explica%20el%20proceso%20o%20resulta%20imposible%20seguirlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Argumenta%20de%20forma%20convincente%20por%20qu%E9%20su%20propuesta%20es%20la%20mejor%20opci%F3n%20para%20la%20feria%20%28originalidad%2C%20sabor%2C%20viabilidad%2C%20atractivo%2C%20etc.%29.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presenta%20varios%20argumentos%20v%E1lidos%20para%20defender%20su%20propuesta%2C%20aunque%20con%20desarrollo%20limitado.%20La%20defensa%20es%20clara%20pero%20no%20completa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20defensa%20se%20basa%20en%20pocos%20argumentos%20o%20en%20ideas%20poco%20desarrolladas.%20Resulta%20repetitiva%2C%20poco%20concreta%20o%20con%20escasa%20capacidad%20de%20convencer.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20hay%20una%20defensa%20clara%20de%20la%20propuesta%20o%20los%20argumentos%20son%20irrelevantes%2C%20incoherentes%20o%20muy%20d%E9biles.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Expresi%F3n%20clara%2C%20fluida%20y%20bien%20estructurada.%20Uso%20adecuado%20del%20lenguaje%2C%20vocabulario%20preciso%20y%20tono%20atractivo%20que%20capta%20el%20inter%E9s.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Comunicaci%F3n%20clara%20en%20general%2C%20con%20estructura%20comprensible.%20Puede%20presentar%20peque%F1os%20fallos%20de%20fluidez%2C%20vocabulario%20o%20pronunciaci%F3n%2C%20pero%20no%20dificultan%20el%20entendimiento.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20dificultades%20de%20expresi%F3n%20%28pausas%2C%20repeticiones%2C%20desorden%20en%20las%20ideas%20o%20vocabulario%20limitado%29.%20El%20mensaje%20se%20entiende%20parcialmente%2C%20pero%20requiere%20esfuerzo%20por%20parte%20del%20oyente.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Comunicaci%F3n%20confusa%2C%20desorganizada%20o%20dif%EDcil%20de%20seguir.%20El%20mensaje%20no%20se%20entiende%20o%20se%20pierde%20con%20frecuencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Video%20original%2C%20din%E1mico%2C%20bien%20editado%20y%20atractivo%20visualmente.%20Uso%20adecuado%20de%20recursos%20%28im%E1genes%2C%20m%FAsica%2C%20transiciones%2C%20etc.%29%20que%20enriquecen%20el%20contenido.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presentaci%F3n%20cuidada%20y%20ordenada.%20Incluye%20algunos%20elementos%20creativos%20o%20visuales%2C%20aunque%20de%20forma%20limitada%20o%20poco%20innovadora.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presentaci%F3n%20b%E1sica%2C%20con%20escasos%20recursos%20visuales%20o%20creativos.%20El%20video%20cumple%20la%20funci%F3n%2C%20pero%20resulta%20poco%20atractivo%20o%20mon%F3tono.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Video%20poco%20trabajado%2C%20sin%20edici%F3n%20o%20con%20problemas%20t%E9cnicos%20que%20dificultan%20su%20visualizaci%F3n.%20No%20hay%20intenci%F3n%20creativa.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20video%20promocional%22%2C%22categories%22%3A%5B%22Justificaci%F3n%20de%20la%20respuesta%22%2C%22C%E1lculo%20de%20ingredientes%22%2C%22Defensa%20de%20la%20propuesta%22%2C%22Comunicaci%F3n%22%2C%22Creatividad%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20de%20forma%20clara%2C%20coherente%20y%20convincente%20por%20qu%E9%20han%20elegido%20la%20receta%20andaluza.%20Incluye%20aspectos%20culturales%2C%20hist%F3ricos%20o%20de%20identidad%20local.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20por%20qu%E9%20han%20elegido%20la%20receta%20con%20argumentos%20comprensibles%20y%20ordenados.%20Incluye%20alguna%20referencia%20cultural%20o%20contextual%2C%20aunque%20poco%20profundizada.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Ofrece%20una%20justificaci%F3n%20b%E1sica%20o%20general%20con%20escaso%20desarrollo.%20Apenas%20hay%20referencias%20culturales%20o%20son%20superficiales.%20La%20explicaci%F3n%20resulta%20poco%20convincente.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20elecci%F3n%20no%20est%E1%20claramente%20justificada%20o%20los%20argumentos%20son%20confusos.%20No%20se%20aprecia%20relaci%F3n%20con%20el%20contexto%20ni%20con%20la%20gastronom%EDa%20andaluza.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20correctamente%20c%F3mo%20han%20adaptado%20la%20receta%20original%20a%2030%20comensales%2C%20mostrando%20c%E1lculos%20claros%20y%20bien%20razonados.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20c%E1lculo%20es%20en%20general%20correcto%20y%20permite%20obtener%20cantidades%20adecuadas.%20La%20explicaci%F3n%20del%20proceso%20es%20comprensible%2C%20aunque%20le%20faltan%20algunos%20pasos.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20dificultades%20en%20la%20adaptaci%F3n%20de%20cantidades.%20La%20explicaci%F3n%20es%20incompleta%20o%20poco%20clara%2C%20lo%20que%20dificulta%20entender%20c%F3mo%20han%20realizado%20los%20c%E1lculos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Los%20c%E1lculos%20son%20incorrectos%20o%20inexistentes.%20No%20se%20explica%20el%20proceso%20o%20resulta%20imposible%20seguirlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Argumenta%20de%20forma%20convincente%20por%20qu%E9%20su%20propuesta%20es%20la%20mejor%20opci%F3n%20para%20la%20feria%20%28originalidad%2C%20sabor%2C%20viabilidad%2C%20atractivo%2C%20etc.%29.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presenta%20varios%20argumentos%20v%E1lidos%20para%20defender%20su%20propuesta%2C%20aunque%20con%20desarrollo%20limitado.%20La%20defensa%20es%20clara%20pero%20no%20completa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20defensa%20se%20basa%20en%20pocos%20argumentos%20o%20en%20ideas%20poco%20desarrolladas.%20Resulta%20repetitiva%2C%20poco%20concreta%20o%20con%20escasa%20capacidad%20de%20convencer.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20hay%20una%20defensa%20clara%20de%20la%20propuesta%20o%20los%20argumentos%20son%20irrelevantes%2C%20incoherentes%20o%20muy%20d%E9biles.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Expresi%F3n%20clara%2C%20fluida%20y%20bien%20estructurada.%20Uso%20adecuado%20del%20lenguaje%2C%20vocabulario%20preciso%20y%20tono%20atractivo%20que%20capta%20el%20inter%E9s.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Comunicaci%F3n%20clara%20en%20general%2C%20con%20estructura%20comprensible.%20Puede%20presentar%20peque%F1os%20fallos%20de%20fluidez%2C%20vocabulario%20o%20pronunciaci%F3n%2C%20pero%20no%20dificultan%20el%20entendimiento.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20dificultades%20de%20expresi%F3n%20%28pausas%2C%20repeticiones%2C%20desorden%20en%20las%20ideas%20o%20vocabulario%20limitado%29.%20El%20mensaje%20se%20entiende%20parcialmente%2C%20pero%20requiere%20esfuerzo%20por%20parte%20del%20oyente.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Comunicaci%F3n%20confusa%2C%20desorganizada%20o%20dif%EDcil%20de%20seguir.%20El%20mensaje%20no%20se%20entiende%20o%20se%20pierde%20con%20frecuencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Video%20original%2C%20din%E1mico%2C%20bien%20editado%20y%20atractivo%20visualmente.%20Uso%20adecuado%20de%20recursos%20%28im%E1genes%2C%20m%FAsica%2C%20transiciones%2C%20etc.%29%20que%20enriquecen%20el%20contenido.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presentaci%F3n%20cuidada%20y%20ordenada.%20Incluye%20algunos%20elementos%20creativos%20o%20visuales%2C%20aunque%20de%20forma%20limitada%20o%20poco%20innovadora.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presentaci%F3n%20b%E1sica%2C%20con%20escasos%20recursos%20visuales%20o%20creativos.%20El%20video%20cumple%20la%20funci%F3n%2C%20pero%20resulta%20poco%20atractivo%20o%20mon%F3tono.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Video%20poco%20trabajado%2C%20sin%20edici%F3n%20o%20con%20problemas%20t%E9cnicos%20que%20dificultan%20su%20visualizaci%F3n.%20No%20hay%20intenci%F3n%20creativa.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmhnd8a-47alp0pfu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmhnd8a-47alp0pfu</odePageId>
+      <odeBlockId>block-mpbgfcrb-112vrqarm</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd8a-47alp0pfu</odePageId>
+          <odeBlockId>block-mpbgfcrb-112vrqarm</odeBlockId>
+          <odeIdeviceId>idevice-mpbgfcrb-401qypdgp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><br /></h1>
+<table class="exe-table" style="height: 92px;"><caption></caption>
+<tbody>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Título</th>
+<td style="width: 610.167px; height: 23px; text-align: justify;">Mercado gastronómico andaluz</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Descripción</th>
+<td style="width: 610.167px; height: 23px; text-align: justify;">Este recurso es la guía para que el alumnado conozca un poco mejor la gastronomía andaluza, su origen y como organizar un evento culinario para un grupo grande de personas.</td>
+</tr>
+<tr>
+<th style="width: 224.633px;">Personas elaboradoras de contenido</th>
+<td style="width: 610.167px; text-align: justify;">Aroa Ibáñez Pérez</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Licencia</th>
+<td style="width: 610.167px; height: 23px; text-align: justify;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: right;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbgfcrb-401qypdgp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><br /></h1>\n<table class=\"exe-table\" style=\"height: 92px;\"><caption></caption>\n<tbody>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Título</th>\n<td style=\"width: 610.167px; height: 23px; text-align: justify;\">Mercado gastronómico andaluz</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Descripción</th>\n<td style=\"width: 610.167px; height: 23px; text-align: justify;\">Este recurso es la guía para que el alumnado conozca un poco mejor la gastronomía andaluza, su origen y como organizar un evento culinario para un grupo grande de personas.</td>\n</tr>\n<tr>\n<th style=\"width: 224.633px;\">Personas elaboradoras de contenido</th>\n<td style=\"width: 610.167px; text-align: justify;\">Aroa Ibáñez Pérez</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Licencia</th>\n<td style=\"width: 610.167px; height: 23px; text-align: justify;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p style=\"text-align: right;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmhnd8a-47alp0pfu</odePageId>
+      <odeBlockId>block-mpbgfcrb-bbv3tzgx8</odeBlockId>
+      <blockName>Créditos de los recursos externos</blockName>
+      <iconName>udl_rep_galeria</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmhnd8a-47alp0pfu</odePageId>
+          <odeBlockId>block-mpbgfcrb-bbv3tzgx8</odeBlockId>
+          <odeIdeviceId>idevice-mpbgfcrb-kwjx6tvxr</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-paginated">
+<h2>Guía docente de Music around the world</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/ingles_2_ciclo_primaria.png" alt="" width="200" height="100">
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Elaboración propia - Equipo REA</span>. <span class="title"><em>Portada Guía Docente</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+</div>
+</div>
+<h2>Guía de uso para el aula</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/estructura_de_un_REA_.jpg" alt="" width="200" height="144">
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Elaboración propia - Equipo REA</span>. <span class="title"><em>Secuencia Didáctica de un REA</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+</div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
